@@ -261,6 +261,7 @@
     align="right"
     src="https://github-readme-stats.vercel.app/api?username=aydinoglu&show_icons=true&theme=dark&locale=en"
     alt="aydinoglu"
+    width="50%"
   />
 </p>
 

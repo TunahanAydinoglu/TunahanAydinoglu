@@ -270,5 +270,6 @@
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=aydinoglu&theme=dark&"
     alt="aydinoglu"
+    witdh="100%"
   />
 </p>

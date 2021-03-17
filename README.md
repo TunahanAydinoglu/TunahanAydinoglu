@@ -251,15 +251,15 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aydinoglu&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=aydinoglu&show_icons=true&theme=radical&locale=en&layout=compact"
     alt="aydinoglu"
   />
 </p>
 
 <p>
   &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=aydinoglu&show_icons=true&locale=en"
+    align="right"
+    src="https://github-readme-stats.vercel.app/api?username=aydinoglu&show_icons=true&theme=dark&locale=en"
     alt="aydinoglu"
   />
 </p>
@@ -267,7 +267,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aydinoglu&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=aydinoglu&theme=dark&"
     alt="aydinoglu"
   />
 </p>

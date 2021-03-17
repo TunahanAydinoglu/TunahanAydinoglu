@@ -37,7 +37,7 @@
       src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/128/Twitter-icon.png"
       alt="tunahnaydinoglu"
       height="30"
-      width="40"
+      width="30"
   /></a>
   <a href="https://instagram.com/tunahanaydinoglu" target="blank"
     ><img
@@ -53,7 +53,7 @@
       src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png"
       alt="tunahanaydinoglu"
       height="30"
-      width="40"
+      width="30"
   /></a>
 </p>
 

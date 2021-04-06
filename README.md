@@ -243,16 +243,16 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aydinoglu&show_icons=true&theme=radical&locale=en&layout=compact"
-    alt="aydinoglu"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=tunahanaydinoglu&show_icons=true&theme=radical&locale=en&layout=compact"
+    alt="tunahanaydinoglu"
   />
 </p>
 
 <p>
   &nbsp;<img
     align="right"
-    src="https://github-readme-stats.vercel.app/api?username=aydinoglu&show_icons=true&theme=dark&locale=en"
-    alt="aydinoglu"
+    src="https://github-readme-stats.vercel.app/api?username=tunahanaydinoglu&show_icons=true&theme=dark&locale=en"
+    alt="tunahanaydinoglu"
     width="50%"
   />
 </p>
@@ -260,8 +260,8 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aydinoglu&theme=dark&"
-    alt="aydinoglu"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=tunahanaydinoglu&theme=dark&"
+    alt="tunahanaydinoglu"
     witdh="100%"
   />
 </p>

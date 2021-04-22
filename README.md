@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuna</h1>
 <h3 align="center">A Web and Mobile Developer...</h3>
 
-- 🔭 I’m currently learning [.Net Core](https://github.com/ZiyagilRetrosu/Retro-API)
+- 🔭 I’m currently learning **.Net Core**
 
 - 🌱 I’m currently developing **.Net Core, React JS, Flutter**
 

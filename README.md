@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [my medium page](https://tunahanaydinoglu.medium.com/)
 
-- 📄 Know my experience in the resume area [https://aydinoglu.dev/](aydinoglu.dev)
+- 📄 Know my experience in the resume area [aydinoglu.dev](https://aydinoglu.dev/)
 
 - 📫 How to reach me **tunahan@aydinoglu.dev**
 

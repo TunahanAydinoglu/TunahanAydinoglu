@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tuna</h1>
 <h3 align="center">A Web and Mobile Developer...</h3>
 
-- 🔭 I’m currently learning **.Net Core**
+- 🔭 I’m currently learning **.Net Core & Go Lang**
 
-- 🌱 I’m currently developing **.Net Core, React JS, Flutter**
+- 🌱 I’m currently developing **.Net Core, React JS**
 
 - 📝 I regularly write articles on [my medium page](https://tunahanaydinoglu.medium.com/)
-
-- 💬 Ask me about **React JS**
 
 - 📄 Know my experience in the resume area [https://aydinoglu.dev/](https://aydinoglu.dev/)
 

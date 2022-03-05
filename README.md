@@ -9,7 +9,7 @@
 
 - 📄  Know my experience in the resume area [aydinoglu.dev](https://aydinoglu.dev/)
 
-- 📫  How to reach me **tunahan@aydinoglu.dev**
+- 📫  How to reach me **tunahan.aydinoglu@yemeksepeti.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

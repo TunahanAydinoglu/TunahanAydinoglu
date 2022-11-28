@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tuna</h1>
 <h3 align="center">A Web and Backend Developer...</h3>
 
-- 🔭  I’m currently learning **.Net Core & Go Lang**
+- 🔭  I’m currently learning **Go Lang**
 
-- 🌱  I’m currently developing **.Net Core, React JS**
+- 🌱  I’m currently developing **Swift (IOS), .Net Core, Javascript**
 
 - 📝  I regularly write articles on [my medium page](https://tunahanaydinoglu.medium.com/)
 
 - 📄  Know my experience in the resume area [aydinoglu.dev](https://aydinoglu.dev/)
 
-- 📫  How to reach me **tunahan.aydinoglu@yemeksepeti.com**
+- 📫  How to reach me **tunahan.aydinoglu@deliveryhero.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

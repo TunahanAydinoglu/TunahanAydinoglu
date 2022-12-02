@@ -5,10 +5,6 @@
 
 - 🌱  I’m currently developing **Swift (IOS), .Net Core, Javascript**
 
-- 📝  I regularly write articles on [my medium page](https://tunahanaydinoglu.medium.com/)
-
-- 📄  Know my experience in the resume area [aydinoglu.dev](https://aydinoglu.dev/)
-
 - 📫  How to reach me **tunahan.aydinoglu@deliveryhero.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -28,14 +24,6 @@
       alt="@tunahanaydinoglu"
       height="30"
       width="40"
-  /></a>
-  <a href="https://twitter.com/tunahnaydinoglu" target="blank"
-    ><img
-      align="center"
-      src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/128/Twitter-icon.png"
-      alt="tunahnaydinoglu"
-      height="30"
-      width="30"
   /></a>
   <a href="https://instagram.com/tunahanaydinoglu" target="blank"
     ><img

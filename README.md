@@ -5,7 +5,7 @@
 
 - 🌱  I’m currently developing **Swift (IOS), .Net Core**
 
-- 📫  How to reach me **tunahan.aydinoglu@deliveryhero.com**
+- 📫  How to reach me **tunahanaydinoglu@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuna</h1>
 <h3 align="center">A Mobile and Backend Developer...</h3>
 
-- 🔭  I’m currently learning **Flutter & Go Lang**
+- 🔭  I’m currently learning **Go Lang**
 
 - 🌱  I’m currently developing **Swift (IOS), .Net Core**
 
